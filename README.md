@@ -1,6 +1,11 @@
 # Allegro API Python
 
-A modern Python client library for the Allegro REST API.
+[![PyPI version](https://badge.fury.io/py/allegro-api.svg)](https://badge.fury.io/py/allegro-api)
+[![Python versions](https://img.shields.io/pypi/pyversions/allegro-api.svg)](https://pypi.org/project/allegro-api/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://allegro-api-python.readthedocs.io)
+
+A modern Python client library for the Allegro REST API with 100% API coverage.
 
 ## Features
 
@@ -316,8 +321,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Resources
+
+- [Official Allegro API Documentation](https://developer.allegro.pl/)
+- [Library Documentation](https://allegro-api-python.readthedocs.io)
+- [PyPI Package](https://pypi.org/project/allegro-api/)
+- [GitHub Repository](https://github.com/yourusername/allegro-api-python)
+- [Changelog](CHANGELOG.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+
 ## Support
 
 For API-related issues, please check the [official Allegro API documentation](https://developer.allegro.pl/).
 
-For library-specific issues, please open an issue on GitHub.
+For library-specific issues, please [open an issue on GitHub](https://github.com/yourusername/allegro-api-python/issues).
+
+## Author
+
+Created and maintained by Marek Sybilak (marek.sybilak@neogento.com)
